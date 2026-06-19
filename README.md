@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- ========================= -->
+<!--        HERO SECTION       -->
+<!-- ========================= -->
 
-<!--
-**sarthakjain0512/sarthakjain0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sarthak Jain</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+📊 Data Analyst | 📈 Data Science Enthusiast
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00C2FF&lines=Data+Analyst;Python+Developer;Data+Science+Enthusiast;Always+Learning+New+Things+🚀" />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/sarthakjain0512">
+<img src="https://komarev.com/ghpvc/?username=sarthakjain0512&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</a>
+
+</p>
