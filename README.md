@@ -229,6 +229,17 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakjain0512&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sarthakjain0512/sarthakjain0512/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
 
 ---
 <!-- ====================================================== -->
